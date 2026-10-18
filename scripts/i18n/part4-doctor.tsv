@@ -1,0 +1,79 @@
+{w} weeks pregnant	{w} வாரக் கர்ப்பம்	{w} हफ़्ते की गर्भावस्था
+for doctors	மருத்துவர்களுக்கு	डॉक्टरों के लिए
+Sign in to the clinic panel	மருத்துவமனைப் பலகையில் உள்நுழையுங்கள்	क्लिनिक पैनल में साइन इन करें
+Doctor ID	மருத்துவர் அடையாள எண்	डॉक्टर ID
+PIN	PIN	PIN
+Demo: any 4 digits.	டெமோ: ஏதேனும் 4 இலக்கங்கள்.	डेमो: कोई भी 4 अंक।
+Sign in	உள்நுழை	साइन इन करें
+Demo data only. Every name and number is invented. The panel locks itself after 5 minutes without use.	டெமோ தரவு மட்டும். அனைத்துப் பெயர்களும் எண்களும் கற்பனையானவை. 5 நிமிடம் பயன்படுத்தாவிட்டால் பலகை தானாகப் பூட்டிக்கொள்ளும்.	सिर्फ़ डेमो डेटा। सभी नाम और नंबर काल्पनिक हैं। 5 मिनट इस्तेमाल न होने पर पैनल अपने आप लॉक हो जाता है।
+Hide names on screen	திரையில் பெயர்களை மறை	स्क्रीन पर नाम छिपाएँ
+Lock	பூட்டு	लॉक
+urgent today	இன்று அவசரம்	आज तुरंत
+need review	பார்க்க வேண்டியவை	समीक्षा ज़रूरी
+in the 40 days	40 நாட்களுக்குள்	40 दिनों में
+Search name or hospital number	பெயர் அல்லது மருத்துவமனை எண்ணால் தேடு	नाम या अस्पताल नंबर से खोजें
+reviewed	பார்க்கப்பட்டது	देखा गया
+No patients match.	பொருந்தும் நோயாளிகள் இல்லை.	कोई मरीज़ मेल नहीं खाता।
+Choose a patient	ஒரு நோயாளியைத் தேர்ந்தெடுங்கள்	एक मरीज़ चुनें
+Patients who need you first are at the top. Red means call today.	முதலில் உங்கள் கவனம் தேவைப்படுபவர்கள் மேலே. சிவப்பு என்றால் இன்றே அழையுங்கள்.	जिन्हें सबसे पहले आपकी ज़रूरत है, वे ऊपर हैं। लाल का मतलब आज ही फ़ोन करें।
+Programme updates	திட்டப் புதுப்பிப்புகள்	कार्यक्रम अपडेट
+{what}: not shared by the patient.	{what}: நோயாளி பகிரவில்லை.	{what}: मरीज़ ने साझा नहीं किया।
+All patients	அனைத்து நோயாளிகள்	सभी मरीज़
+{age} years	{age} வயது	{age} साल
+Reviewed {time}	{time}-க்குப் பார்க்கப்பட்டது	{time} पर देखा
+Mark reviewed	பார்த்ததாகக் குறி	देखा गया दर्ज करें
+App last synced {time}	செயலி கடைசியாக ஒத்திசைந்தது {time}	ऐप आख़िरी बार सिंक {time}
+What needs doing	செய்ய வேண்டியவை	क्या करना है
+Reminder sent (demo)	நினைவூட்டல் அனுப்பப்பட்டது (டெமோ)	रिमाइंडर भेजा (डेमो)
+Send her a reminder (demo)	அவருக்கு நினைவூட்டல் அனுப்பு (டெமோ)	उन्हें रिमाइंडर भेजें (डेमो)
+Referred (demo)	பரிந்துரைக்கப்பட்டது (டெமோ)	रेफ़र किया (डेमो)
+Refer to counsellor (demo)	ஆலோசகரிடம் பரிந்துரை (டெமோ)	काउंसलर को रेफ़र करें (डेमो)
+Symptoms	அறிகுறிகள்	लक्षण
+Medicines, last 7 days	மருந்துகள், கடந்த 7 நாட்கள்	दवाइयाँ, पिछले 7 दिन
+Mother	தாய்	माँ
+Mood checks (EPDS)	மனநிலைச் சோதனைகள் (EPDS)	मूड जाँच (EPDS)
+No checks yet.	இன்னும் சோதனைகள் இல்லை.	अभी कोई जाँच नहीं।
+self-harm item positive	தற்காயக் கேள்வி நேர்மறை	आत्म-हानि वाला सवाल पॉज़िटिव
+10 or more: possible depression	10 அல்லது அதற்கு மேல்: மனச்சோர்வு இருக்கலாம்	10 या ज़्यादा: संभावित डिप्रेशन
+below 10	10-க்குக் கீழ்	10 से कम
+Screening, not diagnosis. Cut-off 10; any positive answer to item 10 needs same-day assessment.	முன்னாய்வு மட்டுமே, நோயறிதல் அல்ல. வரம்பு 10; 10-ஆம் கேள்விக்கு எந்த நேர்மறைப் பதிலுக்கும் அதே நாளில் மதிப்பீடு தேவை.	स्क्रीनिंग, निदान नहीं। कट-ऑफ़ 10; सवाल 10 का कोई भी पॉज़िटिव जवाब हो तो उसी दिन आकलन ज़रूरी।
+Counselling and contraception	ஆலோசனையும் கருத்தடையும்	परामर्श और गर्भनिरोध
+No requests.	கோரிக்கைகள் இல்லை.	कोई अनुरोध नहीं।
+partner joining	கணவரும் வருவார்	पति भी आएँगे
+Confirm slot	நேரத்தை உறுதிசெய்	समय पक्का करें
+My notes	என் குறிப்புகள்	मेरे नोट्स
+Only you see these notes on this device.	இந்தச் சாதனத்தில் இந்தக் குறிப்புகளை நீங்கள் மட்டுமே பார்க்கலாம்.	इस डिवाइस पर ये नोट्स सिर्फ़ आप देखते हैं।
+Who opened this record	இந்தப் பதிவை யார் திறந்தனர்	यह रिकॉर्ड किसने खोला
+Mental health counselling	மனநல ஆலோசனை	मानसिक स्वास्थ्य परामर्श
+Wants PPIUCD	PPIUCD வேண்டும்	PPIUCD चाहती हैं
+Does not want PPIUCD	PPIUCD வேண்டாம்	PPIUCD नहीं चाहतीं
+Wants more information	கூடுதல் தகவல் வேண்டும்	और जानकारी चाहती हैं
+Will decide with partner	கணவருடன் முடிவு செய்வார்	पति के साथ तय करेंगी
+Gestational hypertension	கர்ப்பகால உயர் இரத்த அழுத்தம்	गर्भावस्था में हाई BP
+Previous caesarean	முந்தைய சிசேரியன்	पहले सिज़ेरियन
+Anaemia (Hb 9.6)	இரத்தசோகை (Hb 9.6)	ख़ून की कमी (Hb 9.6)
+Pre-eclampsia (delivered)	முன்-எக்லாம்ப்சியா (பிரசவம் முடிந்தது)	प्री-एक्लेम्पसिया (डिलीवरी हो चुकी)
+Obstetrics OPD	மகப்பேறு வெளிநோயாளர் பிரிவு	प्रसूति OPD
+BP {s}/{d}{sym}	BP {s}/{d}{sym}	BP {s}/{d}{sym}
+Call her now and ask her to come to hospital.	இப்போதே அழைத்து மருத்துவமனைக்கு வரச் சொல்லுங்கள்.	अभी फ़ोन करें और अस्पताल आने को कहें।
+BP {s}/{d}	BP {s}/{d}	BP {s}/{d}
+Review today. Consider an earlier visit.	இன்றே பாருங்கள். முன்கூட்டிய வருகையைக் கருதுங்கள்.	आज समीक्षा करें। जल्दी विज़िट पर विचार करें।
+No BP for {n} days	{n} நாட்களாக BP இல்லை	{n} दिनों से BP नहीं
+Remind her to log BP — still inside the 40-day window.	BP பதிவு செய்ய நினைவூட்டுங்கள் — இன்னும் 40 நாள் காலத்துக்குள்.	BP दर्ज करने की याद दिलाएँ — अभी 40 दिन के अंदर हैं।
+EPDS {s}, self-harm item positive	EPDS {s}, தற்காயக் கேள்வி நேர்மறை	EPDS {s}, आत्म-हानि वाला सवाल पॉज़िटिव
+Same-day assessment. Arrange psychiatry review.	அதே நாளில் மதிப்பீடு. மனநல மருத்துவப் பரிசோதனைக்கு ஏற்பாடு செய்யுங்கள்.	उसी दिन आकलन। मनोचिकित्सक से समीक्षा करवाएँ।
+EPDS {s}	EPDS {s}	EPDS {s}
+Offer counselling; repeat EPDS in 2 weeks.	ஆலோசனை வழங்குங்கள்; 2 வாரத்தில் EPDS மீண்டும்.	परामर्श दें; 2 हफ़्ते में EPDS दोहराएँ।
+{n} doses missed this week	இந்த வாரம் {n} டோஸ்கள் தவறின	इस हफ़्ते {n} खुराक छूटीं
+Ask what gets in the way (side effects, supply, family).	எது தடையாக உள்ளது எனக் கேளுங்கள் (பக்க விளைவுகள், மருந்து கிடைப்பு, குடும்பம்).	पूछें कि क्या रुकावट है (साइड इफ़ेक्ट, दवा की उपलब्धता, परिवार)।
+Vaccine overdue: {v}	தடுப்பூசி தாமதம்: {v}	टीका बाक़ी: {v}
+Give at this visit or send to the immunisation session.	இந்த வருகையில் போடுங்கள் அல்லது தடுப்பூசி அமர்வுக்கு அனுப்புங்கள்.	इसी विज़िट में लगाएँ या टीकाकरण सत्र में भेजें।
+Vaccine due: {v}	தடுப்பூசி நேரம்: {v}	टीका देय: {v}
+Give at this visit.	இந்த வருகையில் போடுங்கள்.	इसी विज़िट में लगाएँ।
+{n} counselling request(s)	{n} ஆலோசனைக் கோரிக்கை(கள்)	{n} परामर्श अनुरोध
+Call back to fix a time.	நேரத்தை முடிவு செய்ய திரும்ப அழையுங்கள்.	समय तय करने के लिए वापस फ़ोन करें।
+PPIUCD: wants to discuss	PPIUCD: பேச விரும்புகிறார்	PPIUCD: बात करना चाहती हैं
+Counsel privately at the next visit.	அடுத்த வருகையில் தனியாக ஆலோசனை வழங்குங்கள்.	अगली विज़िट में अकेले में परामर्श दें।
+2 tablets	2 மாத்திரைகள்	2 गोलियाँ
+Needs attention	கவனம் தேவை	ध्यान ज़रूरी
+Pregnant	கர்ப்பிணி	गर्भवती

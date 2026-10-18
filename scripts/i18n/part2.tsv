@@ -1,0 +1,200 @@
+Hide	மறை	छिपाएँ
+Show ({n})	காட்டு ({n})	दिखाएँ ({n})
+All	அனைத்தும்	सभी
+Medicines	மருந்துகள்	दवाइयाँ
+Supplements	சத்து மாத்திரைகள்	सप्लीमेंट
+Visits	வருகைகள்	विज़िट
+Tests	பரிசோதனைகள்	जाँचें
+Scans	ஸ்கேன்கள்	स्कैन
+Care tasks	பராமரிப்புப் பணிகள்	देखभाल के काम
+My decision	என் முடிவு	मेरा फ़ैसला
+Saved {date}	{date} அன்று சேமிக்கப்பட்டது	{date} को सेव किया
+Questions for my doctor	மருத்துவரிடம் கேட்க வேண்டிய கேள்விகள்	डॉक्टर से पूछने के सवाल
+Let {doctor} see my choice and questions	என் முடிவையும் கேள்விகளையும் {doctor} பார்க்கட்டும்	{doctor} मेरा फ़ैसला और सवाल देख सकें
+Off by default. Your family does not see this.	இயல்பாக முடக்கப்பட்டுள்ளது. உங்கள் குடும்பத்தினர் இதைப் பார்க்க மாட்டார்கள்.	पहले से बंद है। आपका परिवार इसे नहीं देखता।
+Ask for a private talk about this	இதைப் பற்றித் தனியாகப் பேசக் கேளுங்கள்	इस बारे में निजी बातचीत माँगें
+Request sent. The centre will call you.	கோரிக்கை அனுப்பப்பட்டது. மையம் உங்களை அழைக்கும்.	अनुरोध भेजा गया। केंद्र आपको फ़ोन करेगा।
+Back to support	ஆதரவுக்குத் திரும்பு	सहारा पर वापस
+Yes, I want a Copper-T after delivery	ஆம், பிரசவத்துக்குப் பின் காப்பர்-T வேண்டும்	हाँ, डिलीवरी के बाद कॉपर-T चाहिए
+I want to talk with my partner first	முதலில் கணவருடன் பேச விரும்புகிறேன்	पहले अपने पति से बात करना चाहती हूँ
+I need more information	எனக்குக் கூடுதல் தகவல் வேண்டும்	मुझे और जानकारी चाहिए
+No, not for me	இல்லை, எனக்கு வேண்டாம்	नहीं, मेरे लिए नहीं
+Not decided	முடிவு செய்யவில்லை	तय नहीं किया
+When a dose is missed	ஒரு டோஸ் தவறும்போது	जब कोई खुराक छूट जाए
+Demo	டெமோ	डेमो
+Step by step, what happens when prescribed care is not confirmed.	பரிந்துரைத்த பராமரிப்பு உறுதிசெய்யப்படாதபோது என்ன நடக்கிறது, படிப்படியாக.	लिखी गई देखभाल की पुष्टि न होने पर क्या होता है, कदम-दर-कदम।
+Simulated — nothing here contacts anyone.	மாதிரி மட்டும் — இங்கிருந்து யாரையும் தொடர்பு கொள்ளாது.	नकली अभ्यास — यहाँ से किसी से संपर्क नहीं होता।
+Start walkthrough	தொடங்கு	शुरू करें
+Complete	முடிந்தது	पूरा
+Next step	அடுத்த படி	अगला कदम
+Reset	மீட்டமை	रीसेट
+In a live system, {name} would now be told that this dose is still not confirmed.	உண்மையான அமைப்பில், இந்த டோஸ் இன்னும் உறுதிசெய்யப்படவில்லை என {name}-க்கு இப்போது தெரிவிக்கப்படும்.	असली सिस्टम में, अब {name} को बताया जाता कि यह खुराक अभी तक पक्की नहीं हुई।
+your contact	உங்கள் தொடர்பு நபர்	आपका संपर्क व्यक्ति
+Event log	நிகழ்வுப் பதிவு	घटना लॉग
+No events yet.	இன்னும் நிகழ்வுகள் இல்லை.	अभी कोई घटना नहीं।
+Missed	தவறியது	छूट गया
+A scheduled dose passed without confirmation.	திட்டமிட்ட டோஸ் உறுதிசெய்யப்படாமல் கடந்தது.	तय खुराक का समय बिना पुष्टि के निकल गया।
+Noticed	கவனிக்கப்பட்டது	ध्यान में आया
+No "I took it" received yet.	"எடுத்தேன்" இன்னும் வரவில்லை.	अभी तक "मैंने ले ली" नहीं मिला।
+Gentle reminder	மென்மையான நினைவூட்டல்	हल्का रिमाइंडर
+A second reminder is sent.	இரண்டாவது நினைவூட்டல் அனுப்பப்படுகிறது.	दूसरा रिमाइंडर भेजा जाता है।
+Still missed	இன்னும் தவறியது	अब भी छूटा हुआ
+Still not confirmed after the reminder.	நினைவூட்டலுக்குப் பிறகும் உறுதிசெய்யப்படவில்லை.	रिमाइंडर के बाद भी पुष्टि नहीं हुई।
+Family told (demo)	குடும்பத்துக்குத் தெரிவிப்பு (டெமோ)	परिवार को बताया गया (डेमो)
+The contact she chose would be told.	அவர் தேர்ந்தெடுத்த நபருக்குத் தெரிவிக்கப்படும்.	उसके चुने हुए व्यक्ति को बताया जाएगा।
+Item not found.	காணப்படவில்லை.	नहीं मिला।
+Back to schedule	அட்டவணைக்குத் திரும்பு	शेड्यूल पर वापस
+Back	பின்செல்	वापस
+When	எப்போது	कब
+Where	எங்கே	कहाँ
+Before you go	செல்வதற்கு முன்	जाने से पहले
+Report	அறிக்கை	रिपोर्ट
+Prototype — no file is uploaded or stored.	மாதிரி மட்டும் — எந்தக் கோப்பும் பதிவேற்றப்படவோ சேமிக்கப்படவோ இல்லை.	प्रोटोटाइप — कोई फ़ाइल अपलोड या सेव नहीं होती।
+Report marked as uploaded.	அறிக்கை பதிவேற்றப்பட்டதாகக் குறிக்கப்பட்டது.	रिपोर्ट अपलोड के रूप में दर्ज।
+Upload report (prototype)	அறிக்கையைப் பதிவேற்று (மாதிரி)	रिपोर्ट अपलोड करें (प्रोटोटाइप)
+Add to calendar	நாள்காட்டியில் சேர்	कैलेंडर में जोड़ें
+Do not miss	தவறவிடாதீர்கள்	छोड़ें नहीं
+Important	முக்கியம்	ज़रूरी
+Mark as attended	சென்றதாகக் குறி	गई थी, दर्ज करें
+Attended	சென்றேன்	गई
+Test	பரிசோதனை	जाँच
+Mark as completed	முடிந்ததாகக் குறி	पूरा दर्ज करें
+Completed	முடிந்தது	पूरा हुआ
+Scan	ஸ்கேன்	स्कैन
+At home	வீட்டில்	घर पर
+Mark as done	செய்ததாகக் குறி	हो गया, दर्ज करें
+Done	முடிந்தது	हो गया
+Bring your ID and prescription slip	அடையாள அட்டையும் மருந்துச்சீட்டும் கொண்டு வாருங்கள்	पहचान पत्र और पर्ची साथ लाएँ
+Follow any fasting instructions given by your clinic	மருத்துவமனை சொன்ன உண்ணாவிரத அறிவுரைகளைப் பின்பற்றுங்கள்	क्लिनिक ने खाली पेट आने को कहा हो तो वैसा करें
+days since birth	நாட்கள் பிரசவத்துக்குப் பின்	दिन डिलीवरी के बाद
+weeks pregnant	வாரக் கர்ப்பம்	हफ़्ते की गर्भावस्था
+{n} of the 40 days of rest	40 நாள் ஓய்வில் {n}-ஆம் நாள்	आराम के 40 दिनों में से {n}
+Past the 40 days. Keep your 6-week check-up.	40 நாட்கள் கடந்துவிட்டன. 6 வாரப் பரிசோதனையைத் தவறவிடாதீர்கள்.	40 दिन पूरे हुए। 6 हफ़्ते की जाँच न छोड़ें।
+Month {m}, {tri}	{m}-ஆம் மாதம், {tri}	{m}वाँ महीना, {tri}
+Week {w} of 40	40-இல் {w}-ஆம் வாரம்	40 में से हफ़्ता {w}
+Your last BP needs urgent care	உங்கள் கடைசி BP-க்கு அவசரச் சிகிச்சை தேவை	आपके पिछले BP के लिए तुरंत इलाज ज़रूरी है
+Your last BP was high	உங்கள் கடைசி BP அதிகமாக இருந்தது	आपका पिछला BP ज़्यादा था
+Go to hospital now. Call 108.	உடனே மருத்துவமனைக்குச் செல்லுங்கள். 108 அழையுங்கள்.	अभी अस्पताल जाएँ। 108 पर कॉल करें।
+Tell your doctor or health centre today.	இன்றே மருத்துவர் அல்லது சுகாதார நிலையத்திடம் சொல்லுங்கள்.	आज ही डॉक्टर या स्वास्थ्य केंद्र को बताएँ।
+{done} of {total} done	{total}-இல் {done} முடிந்தது	{total} में से {done} हो गए
+Nothing planned today.	இன்று எதுவும் திட்டமிடப்படவில்லை.	आज कुछ तय नहीं।
+I took it	எடுத்தேன்	मैंने ले ली
+Took it late	தாமதமாக எடுத்தேன்	देर से ली
+Log BP	BP பதிவு	BP दर्ज करें
+Mark done	முடிந்தது	हो गया
+Your vaccine	உங்கள் தடுப்பூசி	आपका टीका
+Baby's vaccine	குழந்தையின் தடுப்பூசி	बच्चे का टीका
+overdue	தாமதமாகிவிட்டது	देर हो चुकी
+due now	இப்போது போட வேண்டும்	अभी लगवाना है
+after birth	பிறந்த பின்	जन्म के बाद
+next	அடுத்தது	अगला
+BP in the 40 days after birth	பிரசவத்துக்குப் பின் 40 நாட்களில் BP	डिलीवरी के बाद 40 दिनों में BP
+No readings yet.	இன்னும் பதிவுகள் இல்லை.	अभी कोई रीडिंग नहीं।
+Next visit	அடுத்த வருகை	अगली विज़िट
+Feeling low or stressed?	மனச்சோர்வாக அல்லது அழுத்தமாக உணர்கிறீர்களா?	उदास या तनाव में हैं?
+Private mood check, counsellors near you, free helplines.	தனிப்பட்ட மனநிலைச் சோதனை, அருகிலுள்ள ஆலோசகர்கள், இலவச உதவி எண்கள்.	निजी मूड जाँच, पास के काउंसलर, मुफ़्त हेल्पलाइन।
+Learn in a minute	ஒரு நிமிடத்தில் தெரிந்துகொள்ளுங்கள்	एक मिनट में जानें
+My baby is born	என் குழந்தை பிறந்துவிட்டது	मेरा बच्चा हो गया है
+Baby's date of birth	குழந்தையின் பிறந்த தேதி	बच्चे की जन्म तिथि
+Your plan will switch to after-birth care and your baby's vaccines.	உங்கள் திட்டம் பிரசவத்துக்குப் பிந்தைய பராமரிப்புக்கும் குழந்தையின் தடுப்பூசிகளுக்கும் மாறும்.	आपकी योजना डिलीवरी के बाद की देखभाल और बच्चे के टीकों पर बदल जाएगी।
+Update my plan	என் திட்டத்தைப் புதுப்பி	मेरी योजना बदलें
+Cancel	ரத்து	रद्द करें
+See how this week went	இந்த வாரம் எப்படிப் போனது பாருங்கள்	देखें यह हफ़्ता कैसा रहा
+Good morning, {name}	காலை வணக்கம், {name}	सुप्रभात, {name}
+Good afternoon, {name}	மதிய வணக்கம், {name}	नमस्ते, {name}
+Good evening, {name}	மாலை வணக்கம், {name}	शुभ संध्या, {name}
+first trimester	முதல் மூன்று மாதங்கள்	पहली तिमाही
+second trimester	இரண்டாம் மூன்று மாதங்கள்	दूसरी तिमाही
+third trimester	மூன்றாம் மூன்று மாதங்கள்	तीसरी तिमाही
+Danger signs	அபாய அறிகுறிகள்	ख़तरे के लक्षण
+BP after birth	பிரசவத்துக்குப் பின் BP	डिलीवरी के बाद BP
+Breastfeeding	தாய்ப்பால்	स्तनपान
+Check-ups after birth	பிரசவத்துக்குப் பின் பரிசோதனைகள்	डिलीवरी के बाद की जाँच
+Copper-T after birth	பிரசவத்துக்குப் பின் காப்பர்-T	डिलीवरी के बाद कॉपर-T
+Your mind	உங்கள் மனம்	आपका मन
+Free schemes	இலவசத் திட்டங்கள்	मुफ़्त योजनाएँ
+Couple counselling	தம்பதியர் ஆலோசனை	दंपति परामर्श
+Notifications	அறிவிப்புகள்	सूचनाएँ
+Everything Arogyama has sent you, newest first.	ஆரோக்யமா அனுப்பிய அனைத்தும், புதியது முதலில்.	आरोग्यमा ने जो भी भेजा, नया सबसे ऊपर।
+Phone notifications are blocked	போன் அறிவிப்புகள் தடுக்கப்பட்டுள்ளன	फ़ोन सूचनाएँ बंद (ब्लॉक) हैं
+Phone notifications are off	போன் அறிவிப்புகள் முடக்கத்தில் உள்ளன	फ़ोन सूचनाएँ बंद हैं
+Allow notifications for this site in your browser settings. Until then they appear here and as banners inside the app.	பிரவுசர் அமைப்புகளில் இந்தத் தளத்துக்கு அறிவிப்புகளை அனுமதியுங்கள். அதுவரை அவை இங்கேயும் செயலிக்குள் பேனர்களாகவும் தோன்றும்.	ब्राउज़र सेटिंग में इस साइट के लिए सूचनाएँ चालू करें। तब तक वे यहाँ और ऐप के अंदर बैनर के रूप में दिखेंगी।
+On iPhone: tap Share, then "Add to Home Screen", and open Arogyama from there to allow notifications.	iPhone-இல்: Share தொட்டு, "Add to Home Screen" தேர்ந்தெடுத்து, அங்கிருந்து ஆரோக்யமாவைத் திறந்து அறிவிப்புகளை அனுமதியுங்கள்.	iPhone पर: Share दबाएँ, फिर "Add to Home Screen", और वहीं से आरोग्यमा खोलकर सूचनाएँ चालू करें।
+Turn them on to get medicine and vaccine reminders on your phone.	மருந்து, தடுப்பூசி நினைவூட்டல்களைப் போனில் பெற இவற்றை இயக்குங்கள்.	फ़ोन पर दवा और टीके के रिमाइंडर पाने के लिए इन्हें चालू करें।
+Turn on notifications	அறிவிப்புகளை இயக்கு	सूचनाएँ चालू करें
+Send a test notification	சோதனை அறிவிப்பு அனுப்பு	टेस्ट सूचना भेजें
+Nothing yet. Reminders, facts and news will collect here.	இன்னும் எதுவும் இல்லை. நினைவூட்டல்கள், தகவல்கள், செய்திகள் இங்கே சேரும்.	अभी कुछ नहीं। रिमाइंडर, जानकारी और ख़बरें यहाँ जमा होंगी।
+Reminder	நினைவூட்டல்	रिमाइंडर
+Alert	எச்சரிக்கை	अलर्ट
+App	செயலி	ऐप
+This week	இந்த வாரம்	यह हफ़्ता
+How much of your plan got done. No judgement — just the picture.	உங்கள் திட்டத்தில் எவ்வளவு நடந்தது. மதிப்பீடு இல்லை — நிலவரம் மட்டும்.	आपकी योजना का कितना हुआ। कोई आलोचना नहीं — बस तस्वीर।
+{done} of {total} confirmed	{total}-இல் {done} உறுதிசெய்யப்பட்டது	{total} में से {done} पक्के
+{n} missed	{n} தவறியது	{n} छूटे
+Day by day	நாள் வாரியாக	दिन-ब-दिन
+Nothing planned	திட்டமிடப்படவில்லை	कुछ तय नहीं
+By type	வகை வாரியாக	प्रकार के अनुसार
+Missed care	தவறிய பராமரிப்பு	छूटी देखभाल
+Nothing missed recently.	சமீபத்தில் எதுவும் தவறவில்லை.	हाल में कुछ नहीं छूटा।
+How missed care is followed up (demo)	தவறிய பராமரிப்பு எப்படிப் பின்தொடரப்படுகிறது (டெமோ)	छूटी देखभाल पर आगे क्या होता है (डेमो)
+Learn	அறிக	जानें
+Short pages. Every fact links to where it came from.	சிறு பக்கங்கள். ஒவ்வொரு தகவலும் அதன் ஆதாரத்துடன்.	छोटे पन्ने। हर जानकारी के साथ उसका स्रोत।
+All topics	அனைத்துத் தலைப்புகள்	सभी विषय
+Record my decision privately	என் முடிவைத் தனிப்பட்ட முறையில் பதிவு செய்	अपना फ़ैसला निजी रूप से दर्ज करें
+Get support	ஆதரவு பெறுங்கள்	सहारा लें
+Log my BP	என் BP-ஐப் பதிவு செய்	अपना BP दर्ज करें
+Open the vaccine card	தடுப்பூசி அட்டையைத் திற	टीका कार्ड खोलें
+Sources	ஆதாரங்கள்	स्रोत
+General information. Follow your own doctor’s advice.	பொதுவான தகவல். உங்கள் மருத்துவரின் அறிவுரையைப் பின்பற்றுங்கள்.	सामान्य जानकारी। अपने डॉक्टर की सलाह मानें।
+More to read	மேலும் படிக்க	और पढ़ें
+Skip	தவிர்	छोड़ें
+Simulate missed (demo)	தவறியதாக மாதிரி (டெமோ)	छूटा हुआ दिखाएँ (डेमो)
+You confirm each dose. Arogyama keeps the record.	ஒவ்வொரு டோஸையும் நீங்கள் உறுதிசெய்கிறீர்கள். ஆரோக்யமா பதிவை வைத்திருக்கிறது.	आप हर खुराक की पुष्टि करती हैं। आरोग्यमा रिकॉर्ड रखता है।
+No doses today.	இன்று டோஸ் இல்லை.	आज कोई खुराक नहीं।
+All medicines	அனைத்து மருந்துகள்	सभी दवाइयाँ
+{pct}% this week	இந்த வாரம் {pct}%	इस हफ़्ते {pct}%
+Morning	காலை	सुबह
+Afternoon	மதியம்	दोपहर
+Evening	மாலை	शाम
+Your mood check	உங்கள் மனநிலைச் சோதனை	आपकी मूड जाँच
+Please talk to someone today.	இன்றே யாரிடமாவது பேசுங்கள்.	कृपया आज ही किसी से बात करें।
+You said thoughts of harming yourself have come to you. You are not alone, and this can get better with help. Call now — it is free and private.	உங்களைக் காயப்படுத்திக்கொள்ளும் எண்ணங்கள் வந்ததாகச் சொன்னீர்கள். நீங்கள் தனியாக இல்லை, உதவியுடன் இது சரியாகும். இப்போதே அழையுங்கள் — இலவசம், ரகசியம்.	आपने बताया कि ख़ुद को नुकसान पहुँचाने के ख़याल आए हैं। आप अकेली नहीं हैं, और मदद से यह बेहतर हो सकता है। अभी कॉल करें — यह मुफ़्त और निजी है।
+Tele-MANAS, free, 24x7	டெலி-மனஸ், இலவசம், 24 மணி நேரமும்	टेली-मानस, मुफ़्त, 24x7
+Emergency	அவசரம்	इमरजेंसी
+If you are in danger right now, go to the nearest hospital or ask someone you trust to take you.	இப்போது ஆபத்தில் இருந்தால், அருகிலுள்ள மருத்துவமனைக்குச் செல்லுங்கள் அல்லது நம்பிக்கையான ஒருவரை அழைத்துச் செல்லச் சொல்லுங்கள்.	अगर आप अभी ख़तरे में हैं, तो नज़दीकी अस्पताल जाएँ या किसी भरोसेमंद व्यक्ति से ले जाने को कहें।
+It sounds like a hard time.	இது கடினமான நேரமாகத் தெரிகிறது.	लगता है यह मुश्किल समय है।
+Your answers suggest you may have depression. This is common after childbirth and it is treatable. Please talk to your doctor or a counsellor this week.	உங்களுக்கு மனச்சோர்வு இருக்கலாம் என உங்கள் பதில்கள் காட்டுகின்றன. பிரசவத்துக்குப் பின் இது பொதுவானது, குணப்படுத்தக்கூடியது. இந்த வாரமே மருத்துவர் அல்லது ஆலோசகரிடம் பேசுங்கள்.	आपके जवाबों से लगता है कि आपको डिप्रेशन हो सकता है। डिलीवरी के बाद यह आम है और इसका इलाज है। इसी हफ़्ते डॉक्टर या काउंसलर से बात करें।
+Ask for counselling	ஆலோசனை கேளுங்கள்	परामर्श माँगें
+Thank you for checking in.	சோதித்ததற்கு நன்றி.	जाँच करने के लिए धन्यवाद।
+Your answers don't suggest depression right now. Check again in two weeks, or any time you feel low.	உங்கள் பதில்கள் இப்போது மனச்சோர்வைக் காட்டவில்லை. இரண்டு வாரங்களில், அல்லது மனம் சோர்வாக இருக்கும்போதெல்லாம் மீண்டும் சோதியுங்கள்.	आपके जवाब अभी डिप्रेशन नहीं दिखाते। दो हफ़्ते बाद, या जब भी मन उदास हो, फिर से जाँचें।
+This is a screening check, not a diagnosis. Score {s} of 30.	இது ஒரு முன்னாய்வு மட்டுமே, நோயறிதல் அல்ல. மதிப்பெண் 30-இல் {s}.	यह सिर्फ़ स्क्रीनिंग जाँच है, बीमारी की पहचान नहीं। स्कोर 30 में से {s}।
+Let {doctor} see my mood checks	என் மனநிலைச் சோதனைகளை {doctor} பார்க்கட்டும்	{doctor} मेरी मूड जाँच देख सकें
+Off by default. You can turn it off again any time.	இயல்பாக முடக்கத்தில். எப்போது வேண்டுமானாலும் மீண்டும் முடக்கலாம்.	पहले से बंद है। आप इसे कभी भी फिर बंद कर सकती हैं।
+Mood check	மனநிலைச் சோதனை	मूड जाँच
+There are no right or wrong answers. Nobody sees this unless you choose to share it.	சரியான அல்லது தவறான பதில் இல்லை. நீங்கள் பகிர்ந்தால் தவிர யாரும் இதைப் பார்க்க மாட்டார்கள்.	कोई जवाब सही या ग़लत नहीं है। जब तक आप साझा न करें, कोई इसे नहीं देखता।
+Begin	தொடங்கு	शुरू करें
+Questions from the Edinburgh Postnatal Depression Scale	எடின்பர்க் பிரசவத்துக்குப் பிந்தைய மனச்சோர்வு அளவுகோலின் கேள்விகள்	एडिनबर्ग पोस्टनेटल डिप्रेशन स्केल के सवाल
+Question {n} of {total}	{total}-இல் {n}-ஆம் கேள்வி	{total} में से सवाल {n}
+In the past 7 days…	கடந்த 7 நாட்களில்…	पिछले 7 दिनों में…
+Day {d} after birth	பிரசவத்துக்குப் பின் {d}-ஆம் நாள்	डिलीवरी के बाद दिन {d}
+About week {w} — due around {date}	சுமார் {w}-ஆம் வாரம் — பிரசவ தேதி சுமார் {date}	लगभग हफ़्ता {w} — डिलीवरी लगभग {date}
+Step {n} of 3	3-இல் {n}-ஆம் படி	3 में से कदम {n}
+Where are you today?	இன்று நீங்கள் எந்த நிலையில் இருக்கிறீர்கள்?	आज आप किस पड़ाव पर हैं?
+You can start at any month of pregnancy, or after your baby is born.	கர்ப்பத்தின் எந்த மாதத்திலும், அல்லது குழந்தை பிறந்த பிறகும் தொடங்கலாம்.	आप गर्भावस्था के किसी भी महीने में, या बच्चा होने के बाद भी शुरू कर सकती हैं।
+I am pregnant	நான் கர்ப்பமாக இருக்கிறேன்	मैं गर्भवती हूँ
+What do you know?	உங்களுக்கு என்ன தெரியும்?	आपको क्या पता है?
+The month	மாதம்	महीना
+Last period date	கடைசி மாதவிடாய் தேதி	आख़िरी माहवारी की तारीख़
+Due date	பிரசவ தேதி	डिलीवरी की तारीख़
+Month of pregnancy	கர்ப்ப மாதம்	गर्भावस्था का महीना
+Month {m} of pregnancy	கர்ப்பத்தின் {m}-ஆம் மாதம்	गर्भावस्था का {m}वाँ महीना
+First day of your last period	கடைசி மாதவிடாயின் முதல் நாள்	आख़िरी माहवारी का पहला दिन
+Expected due date (from your scan or doctor)	எதிர்பார்க்கும் பிரசவ தேதி (ஸ்கேன் அல்லது மருத்துவரிடமிருந்து)	अनुमानित डिलीवरी तारीख़ (स्कैन या डॉक्टर से)
+Please check the date.	தேதியைச் சரிபாருங்கள்.	कृपया तारीख़ जाँचें।
+A month is an estimate. Your doctor can correct the date later.	மாதம் ஒரு தோராயம். மருத்துவர் பின்னர் தேதியைச் சரிசெய்யலாம்.	महीना अनुमान है। डॉक्टर बाद में तारीख़ ठीक कर सकते हैं।
+Continue	தொடர்க	आगे बढ़ें
+About you	உங்களைப் பற்றி	आपके बारे में
+Filled in with demo details. Change anything.	டெமோ விவரங்கள் நிரப்பப்பட்டுள்ளன. எதையும் மாற்றலாம்.	डेमो जानकारी भरी है। कुछ भी बदल सकती हैं।
+Your name	உங்கள் பெயர்	आपका नाम
+Your doctor	உங்கள் மருத்துவர்	आपके डॉक्टर
+Hospital or health centre	மருத்துவமனை அல்லது சுகாதார நிலையம்	अस्पताल या स्वास्थ्य केंद्र
